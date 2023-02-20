@@ -1,0 +1,2 @@
+# EternalSkyblock
+Website for EternalSkyblock.
